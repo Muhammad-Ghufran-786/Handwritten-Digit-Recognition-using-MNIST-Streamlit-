@@ -6,7 +6,7 @@ It’s built with **TensorFlow/Keras** for model training and **Streamlit** for 
 ---
 
 ## 🚀 Live Demo
-👉 [Streamlit App Link](https://YOUR-STREAMLIT-APP-URL)
+👉 [Streamlit App Link]([https://YOUR-STREAMLIT-APP-URL](https://handwritten-digit-recognition-using-deap-learning-mnit.streamlit.app/))
 
 ---
 
@@ -32,4 +32,5 @@ To train the model yourself:
 
 ```bash
 python train_and_save.py
+
 
